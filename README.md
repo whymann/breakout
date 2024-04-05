@@ -1,9 +1,4 @@
 # breakout
-
-code the game breakout in python 
-ChatGPT
-Sure, below is a simple implementation of the classic game Breakout using Python and the Pygame library. Make sure you have Pygame installed (pip install pygame) before running the code.
-
 python
 Copy code
 import pygame
